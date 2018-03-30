@@ -1,0 +1,21 @@
+.col {
+	padding: 50px;
+}
+
+img {
+	max-width: 100%;
+}
+
+#profile {
+	border-radius: 25%;
+}
+
+body {
+	text-align: center;
+}
+
+p {
+	padding-right: 100px;
+	padding-left: 100px;
+	margin: auto 0;
+}
